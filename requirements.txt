@@ -1,0 +1,5 @@
+torch==1.6.0
+streamlit==0.67.1
+numpy==1.19.0
+Pillow==8.0.1
+retinaface==0.0.6
