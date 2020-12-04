@@ -4,7 +4,7 @@ import numpy as np
 import streamlit as st
 import matplotlib.pyplot as plt
 from PIL import Image
-
+from typing import List
 
 st.set_option("deprecation.showfileUploaderEncoding", False)
 
